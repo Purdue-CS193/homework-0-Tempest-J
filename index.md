@@ -1,10 +1,9 @@
 # Jaylen's First CS193 Homework
 
--Github usage 
+- Github usage 
 
--Easy Credit
+- Easy Credit
 
--I don't know
+- I don't know
 
--Please give me a an A
-
+- Please give me a an A
